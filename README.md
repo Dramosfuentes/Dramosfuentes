@@ -1,16 +1,40 @@
 ## Hi there 👋
 
-<!--
-**Dramosfuentes/Dramosfuentes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!I'm Jesús David Ramos Fuentes, a Full Stack Developer focused on building scalable web applications.
 
-Here are some ideas to get you started:
+## 🚀 Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Backend
+- Java
+- Spring Boot
+- Spring Security
+- REST APIs
+- JPA / Hibernate
+
+### Frontend
+- Angular
+- TypeScript
+- HTML
+- CSS
+- Bootstrap
+
+### Database
+- PostgreSQL
+- MySQL
+- SQL Server
+
+### DevOps
+- Docker
+- Git
+- GitHub Actions
+
+## 🌱 Currently learning
+
+- Kubernetes
+- Cloud (AWS)
+- Microservices
+
+## 📫 Contact
+
+- LinkedIn: https://linkedin.com/in/...
+- Email: jdrf.9038@gmail.com
