@@ -28,9 +28,9 @@
 - Git
 - GitHub Actions
 ### 🎓 Education
-Higher Vocational Diploma in Network Systems Administration (ASIR)
-Specialized training in Cybersecurity
-Specialized training in AI Agents and Generative AI
+- Higher Vocational Diploma in Network Systems Administration (ASIR)
+- Specialized training in Cybersecurity
+- Specialized training in AI Agents and Generative AI
 
 ## 🌱 Currently learning
 
